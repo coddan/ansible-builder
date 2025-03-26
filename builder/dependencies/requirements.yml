@@ -1,0 +1,11 @@
+---
+collections:
+- awx.awx
+- community.general
+- community.hashi_vault
+- community.postgresql
+- community.crypto
+- community.mysql
+- community.zabbix
+- kubernetes.core
+- containers.podman
